@@ -21,7 +21,7 @@ TR_FRAMES_IDX = os.path.join(TRUSTED_DATA_PATH, "frames_idx.csv")
 
 # temporal limits
 DT_INIT = "2016-07-01"
-DT_FIM = "2022-10-01"
+DT_FIM = "2023-06-30"
 TIME_STEPS = pd.date_range(
     DT_INIT,
     DT_FIM,
@@ -29,5 +29,5 @@ TIME_STEPS = pd.date_range(
 )
 
 # spatial and input size parameters
-BOX_SIDE = 0.01
+BOX_SIDE = 0.01 * 3
 INPUT_BOXES_SIZE = 64
