@@ -13,11 +13,14 @@ AMAZON_FRONTIER_DATA = os.path.join(RAW_DATA_PATH, "brazilian_legal_amazon")
 INITIAL_DEFORESTATION = os.path.join(RAW_DATA_PATH, "accumulated_deforestation_2007")
 DETER_DATA = os.path.join(RAW_DATA_PATH, "deter-amz-public-2023set08")
 PRODES_DATA = os.path.join(RAW_DATA_PATH, "yearly_deforestation")
+COUNTIES_DATA = os.path.join(RAW_DATA_PATH, "municipios")
 
 # trusted data
 TR_DEFORESTATION = os.path.join(TRUSTED_DATA_PATH, "deforestation.csv")
 TR_FRAMES = os.path.join(TRUSTED_DATA_PATH, "frames_detail")
 TR_FRAMES_IDX = os.path.join(TRUSTED_DATA_PATH, "frames_idx.csv")
+TR_COUNTIES = os.path.join(TRUSTED_DATA_PATH, "counties.csv")
+TR_COUNTIES_DEFOR = os.path.join(TRUSTED_DATA_PATH, "counties_defor.csv")
 
 # temporal limits
 DT_INIT = "2016-07-01"
