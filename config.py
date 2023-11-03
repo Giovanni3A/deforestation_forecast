@@ -20,6 +20,7 @@ LANDCOVER_DATA = os.path.join(RAW_DATA_PATH, "landcover.tif")
 
 # trusted data
 TR_DEFORESTATION = os.path.join(TRUSTED_DATA_PATH, "deforestation.csv")
+TR_PAST_SCORES = os.path.join(TRUSTED_DATA_PATH, "past_scores.csv")
 TR_FRAMES = os.path.join(TRUSTED_DATA_PATH, "frames_detail")
 TR_FRAMES_IDX = os.path.join(TRUSTED_DATA_PATH, "frames_idx.csv")
 TR_COUNTIES = os.path.join(TRUSTED_DATA_PATH, "counties.csv")
