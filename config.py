@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # data folder
-DATA_PATH = r"C:\Users\GiovanniAmorim\Pessoal\Mestrado\DL2CV\data"
+DATA_PATH = r"C:\Users\giovanni\DL2CV\data"
 
 # data layers
 RAW_DATA_PATH = os.path.join(DATA_PATH, "raw")
