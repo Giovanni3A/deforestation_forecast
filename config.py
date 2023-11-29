@@ -18,6 +18,7 @@ RAIN_DATA = os.path.join(RAW_DATA_PATH, "precipitations")
 TPI_DATA = os.path.join(RAW_DATA_PATH, "TPI.tif")
 LANDCOVER_DATA = os.path.join(RAW_DATA_PATH, "landcover.tif")
 NIGHT_LIGHT_DATA = os.path.join(RAW_DATA_PATH, "night_lights")
+SENTINEL1_DATA = os.path.join(RAW_DATA_PATH, "sentinel1")
 
 # trusted data
 TR_DEFORESTATION = os.path.join(TRUSTED_DATA_PATH, "deforestation.csv")
@@ -30,6 +31,7 @@ TR_RAIN_AVG = os.path.join(TRUSTED_DATA_PATH, "avg_precipitation.csv")
 TR_TPI = os.path.join(TRUSTED_DATA_PATH, "tpi.csv")
 TR_LANDCOVER = os.path.join(TRUSTED_DATA_PATH, "landcover.csv")
 TR_NIGHT_LIGHT = os.path.join(TRUSTED_DATA_PATH, "night_light.csv")
+TR_SENTINEL1 = os.path.join(TRUSTED_DATA_PATH, "sentinel1.csv")
 
 # temporal limits
 DT_INIT = "2016-07-01"
