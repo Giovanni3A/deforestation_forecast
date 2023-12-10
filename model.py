@@ -70,7 +70,8 @@ def train(model, optimizer, n_epochs, trainloader, valloader):
         # train for 1 epoch and compute error
         train_err = run_epoch(model, optimizer, trainloader)
 
-        # compute validation error and save history            
+        # compute validation error and save history
+        train_err = evaluate_model(model, trainloader)
         val_err = evaluate_model(model, valloader)
         model.errs.append([train_err, val_err])
 
