@@ -1,0 +1,250 @@
+2023-12-07 08:46:08,071.071 INFO feature_selection - <module>: Selection loop iteration 1 | Initial channels: [0, 1, 2, 3]
+2023-12-07 08:51:24,521.521 INFO feature_selection - run_selection_iteration: Basic scores: (0.20400483273584344, 0.16988862148094253)
+2023-12-07 08:51:24,521.521 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (4)
+2023-12-07 08:56:48,855.855 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 08:56:48,855.855 INFO feature_selection - run_selection_iteration: Train score: 0.18327142612745057
+2023-12-07 08:56:48,855.855 INFO feature_selection - run_selection_iteration: Validation score: 0.21800476606833652
+2023-12-07 08:56:48,856.856 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (5)
+2023-12-07 09:02:14,383.383 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 09:02:14,383.383 INFO feature_selection - run_selection_iteration: Train score: 0.19936237425816564
+2023-12-07 09:02:14,383.383 INFO feature_selection - run_selection_iteration: Validation score: 0.2335161067516451
+2023-12-07 09:02:14,384.384 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (6)
+2023-12-07 09:07:40,322.322 INFO feature_selection - run_selection_iteration: Best treshold: 0.32
+2023-12-07 09:07:40,322.322 INFO feature_selection - run_selection_iteration: Train score: 0.17055561666526473
+2023-12-07 09:07:40,322.322 INFO feature_selection - run_selection_iteration: Validation score: 0.20816514668861258
+2023-12-07 09:07:40,323.323 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (7)
+2023-12-07 09:13:06,201.201 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 09:13:06,201.201 INFO feature_selection - run_selection_iteration: Train score: 0.17374305849540553
+2023-12-07 09:13:06,201.201 INFO feature_selection - run_selection_iteration: Validation score: 0.2059400814290085
+2023-12-07 09:13:06,201.201 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (8)
+2023-12-07 09:18:31,402.402 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 09:18:31,403.403 INFO feature_selection - run_selection_iteration: Train score: 0.18985690868798588
+2023-12-07 09:18:31,403.403 INFO feature_selection - run_selection_iteration: Validation score: 0.1908041004798648
+2023-12-07 09:18:31,403.403 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (9)
+2023-12-07 09:23:56,735.735 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 09:23:56,735.735 INFO feature_selection - run_selection_iteration: Train score: 0.15690119173419628
+2023-12-07 09:23:56,735.735 INFO feature_selection - run_selection_iteration: Validation score: 0.19022950786819706
+2023-12-07 09:23:56,736.736 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (10)
+2023-12-07 09:29:22,057.057 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 09:29:22,057.057 INFO feature_selection - run_selection_iteration: Train score: 0.18787172726715312
+2023-12-07 09:29:22,057.057 INFO feature_selection - run_selection_iteration: Validation score: 0.20239610175494302
+2023-12-07 09:29:22,058.058 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (11)
+2023-12-07 09:34:47,207.207 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 09:34:47,207.207 INFO feature_selection - run_selection_iteration: Train score: 0.17615775067368103
+2023-12-07 09:34:47,207.207 INFO feature_selection - run_selection_iteration: Validation score: 0.18182084638043644
+2023-12-07 09:34:47,207.207 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (12)
+2023-12-07 09:40:12,445.445 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 09:40:12,445.445 INFO feature_selection - run_selection_iteration: Train score: 0.1721027084678619
+2023-12-07 09:40:12,445.445 INFO feature_selection - run_selection_iteration: Validation score: 0.18303275633592844
+2023-12-07 09:40:12,445.445 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (13)
+2023-12-07 09:45:35,373.373 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 09:45:35,373.373 INFO feature_selection - run_selection_iteration: Train score: 0.16441419724925777
+2023-12-07 09:45:35,373.373 INFO feature_selection - run_selection_iteration: Validation score: 0.1892181241348898
+2023-12-07 09:45:35,373.373 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (14)
+2023-12-07 09:50:55,264.264 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 09:50:55,264.264 INFO feature_selection - run_selection_iteration: Train score: 0.19108753245552024
+2023-12-07 09:50:55,264.264 INFO feature_selection - run_selection_iteration: Validation score: 0.1960016123671388
+2023-12-07 09:50:55,264.264 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (15)
+2023-12-07 09:56:15,316.316 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 09:56:15,316.316 INFO feature_selection - run_selection_iteration: Train score: 0.20148607664736698
+2023-12-07 09:56:15,316.316 INFO feature_selection - run_selection_iteration: Validation score: 0.1878961077307575
+2023-12-07 09:56:15,316.316 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (16)
+2023-12-07 10:01:34,671.671 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 10:01:34,671.671 INFO feature_selection - run_selection_iteration: Train score: 0.18400902176655662
+2023-12-07 10:01:34,671.671 INFO feature_selection - run_selection_iteration: Validation score: 0.19543996239520628
+2023-12-07 10:01:34,671.671 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (17)
+2023-12-07 10:06:54,169.169 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 10:06:54,169.169 INFO feature_selection - run_selection_iteration: Train score: 0.1905933963664862
+2023-12-07 10:06:54,169.169 INFO feature_selection - run_selection_iteration: Validation score: 0.1857608556696638
+2023-12-07 10:06:54,169.169 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (18)
+2023-12-07 10:12:13,856.856 INFO feature_selection - run_selection_iteration: Best treshold: 0.33
+2023-12-07 10:12:13,856.856 INFO feature_selection - run_selection_iteration: Train score: 0.2265897374830021
+2023-12-07 10:12:13,856.856 INFO feature_selection - run_selection_iteration: Validation score: 0.18188499770700017
+2023-12-07 10:12:13,856.856 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (19)
+2023-12-07 10:17:33,331.331 INFO feature_selection - run_selection_iteration: Best treshold: 0.32
+2023-12-07 10:17:33,331.331 INFO feature_selection - run_selection_iteration: Train score: 0.20984170721021927
+2023-12-07 10:17:33,331.331 INFO feature_selection - run_selection_iteration: Validation score: 0.1725202282800503
+2023-12-07 10:17:33,331.331 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (20)
+2023-12-07 10:22:53,473.473 INFO feature_selection - run_selection_iteration: Best treshold: 0.32
+2023-12-07 10:22:53,473.473 INFO feature_selection - run_selection_iteration: Train score: 0.23070694952314202
+2023-12-07 10:22:53,473.473 INFO feature_selection - run_selection_iteration: Validation score: 0.22806696914556335
+2023-12-07 10:22:53,473.473 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (21)
+2023-12-07 10:28:13,139.139 INFO feature_selection - run_selection_iteration: Best treshold: 0.34
+2023-12-07 10:28:13,139.139 INFO feature_selection - run_selection_iteration: Train score: 0.2696625000585856
+2023-12-07 10:28:13,139.139 INFO feature_selection - run_selection_iteration: Validation score: 0.20402763925634393
+2023-12-07 10:28:13,139.139 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (22)
+2023-12-07 10:33:32,279.279 INFO feature_selection - run_selection_iteration: Best treshold: 0.32
+2023-12-07 10:33:32,279.279 INFO feature_selection - run_selection_iteration: Train score: 0.22170759455533923
+2023-12-07 10:33:32,279.279 INFO feature_selection - run_selection_iteration: Validation score: 0.21425000196324287
+2023-12-07 10:33:32,279.279 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (23)
+2023-12-07 10:38:52,415.415 INFO feature_selection - run_selection_iteration: Best treshold: 0.33
+2023-12-07 10:38:52,415.415 INFO feature_selection - run_selection_iteration: Train score: 0.22745037028714
+2023-12-07 10:38:52,415.415 INFO feature_selection - run_selection_iteration: Validation score: 0.2201052895462522
+2023-12-07 10:38:52,415.415 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (24)
+2023-12-07 10:44:11,477.477 INFO feature_selection - run_selection_iteration: Best treshold: 0.33
+2023-12-07 10:44:11,477.477 INFO feature_selection - run_selection_iteration: Train score: 0.22004980702576563
+2023-12-07 10:44:11,477.477 INFO feature_selection - run_selection_iteration: Validation score: 0.19328105242536317
+2023-12-07 10:44:11,477.477 INFO feature_selection - <module>: New channel added: 5 ((0.20400483273584344, 0.16988862148094253) -> (0.19936237425816564, 0.2335161067516451))
+2023-12-07 10:44:11,477.477 INFO feature_selection - <module>: Selection loop iteration 2 | Initial channels: [0, 1, 2, 3, 5]
+2023-12-07 10:49:32,067.067 INFO feature_selection - run_selection_iteration: Basic scores: (0.19878395048211325, 0.23837772816172526)
+2023-12-07 10:49:32,067.067 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (4)
+2023-12-07 10:54:51,549.549 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 10:54:51,559.559 INFO feature_selection - run_selection_iteration: Train score: 0.1648117463929086
+2023-12-07 10:54:51,559.559 INFO feature_selection - run_selection_iteration: Validation score: 0.21274560389275346
+2023-12-07 10:54:51,559.559 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (6)
+2023-12-07 11:00:15,959.959 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 11:00:15,959.959 INFO feature_selection - run_selection_iteration: Train score: 0.14788488162717206
+2023-12-07 11:00:15,959.959 INFO feature_selection - run_selection_iteration: Validation score: 0.17877187804051467
+2023-12-07 11:00:15,960.960 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (7)
+2023-12-07 11:05:41,579.579 INFO feature_selection - run_selection_iteration: Best treshold: 0.28
+2023-12-07 11:05:41,579.579 INFO feature_selection - run_selection_iteration: Train score: 0.15202674013756923
+2023-12-07 11:05:41,579.579 INFO feature_selection - run_selection_iteration: Validation score: 0.1928941719811854
+2023-12-07 11:05:41,580.580 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (8)
+2023-12-07 11:11:06,517.517 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 11:11:06,517.517 INFO feature_selection - run_selection_iteration: Train score: 0.16797772528881746
+2023-12-07 11:11:06,517.517 INFO feature_selection - run_selection_iteration: Validation score: 0.2140303551250839
+2023-12-07 11:11:06,518.518 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (9)
+2023-12-07 11:16:31,502.502 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 11:16:31,502.502 INFO feature_selection - run_selection_iteration: Train score: 0.14625463787001697
+2023-12-07 11:16:31,502.502 INFO feature_selection - run_selection_iteration: Validation score: 0.17460997308763715
+2023-12-07 11:16:31,504.504 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (10)
+2023-12-07 11:21:58,079.079 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 11:21:58,079.079 INFO feature_selection - run_selection_iteration: Train score: 0.16202420695788916
+2023-12-07 11:21:58,080.080 INFO feature_selection - run_selection_iteration: Validation score: 0.21053930100749282
+2023-12-07 11:21:58,080.080 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (11)
+2023-12-07 11:27:21,404.404 INFO feature_selection - run_selection_iteration: Best treshold: 0.32
+2023-12-07 11:27:21,404.404 INFO feature_selection - run_selection_iteration: Train score: 0.1450415065258693
+2023-12-07 11:27:21,404.404 INFO feature_selection - run_selection_iteration: Validation score: 0.20425197090001718
+2023-12-07 11:27:21,405.405 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (12)
+2023-12-07 11:32:45,247.247 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 11:32:45,247.247 INFO feature_selection - run_selection_iteration: Train score: 0.15669231896904873
+2023-12-07 11:32:45,247.247 INFO feature_selection - run_selection_iteration: Validation score: 0.2214158659804336
+2023-12-07 11:32:45,248.248 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (13)
+2023-12-07 11:38:08,530.530 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 11:38:08,531.531 INFO feature_selection - run_selection_iteration: Train score: 0.14810515898815887
+2023-12-07 11:38:08,531.531 INFO feature_selection - run_selection_iteration: Validation score: 0.21835926296287683
+2023-12-07 11:38:08,532.532 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (14)
+2023-12-07 11:43:32,473.473 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 11:43:32,473.473 INFO feature_selection - run_selection_iteration: Train score: 0.16672971475516327
+2023-12-07 11:43:32,473.473 INFO feature_selection - run_selection_iteration: Validation score: 0.19672618979492335
+2023-12-07 11:43:32,473.473 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (15)
+2023-12-07 11:48:55,684.684 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 11:48:55,684.684 INFO feature_selection - run_selection_iteration: Train score: 0.167808793069933
+2023-12-07 11:48:55,685.685 INFO feature_selection - run_selection_iteration: Validation score: 0.22337346879200798
+2023-12-07 11:48:55,685.685 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (16)
+2023-12-07 11:54:19,297.297 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 11:54:19,298.298 INFO feature_selection - run_selection_iteration: Train score: 0.154560756974463
+2023-12-07 11:54:19,298.298 INFO feature_selection - run_selection_iteration: Validation score: 0.19040374463615467
+2023-12-07 11:54:19,298.298 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (17)
+2023-12-07 11:59:39,736.736 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 11:59:39,736.736 INFO feature_selection - run_selection_iteration: Train score: 0.1560860555400112
+2023-12-07 11:59:39,736.736 INFO feature_selection - run_selection_iteration: Validation score: 0.19188541543283558
+2023-12-07 11:59:39,736.736 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (18)
+2023-12-07 12:04:58,508.508 INFO feature_selection - run_selection_iteration: Best treshold: 0.32
+2023-12-07 12:04:58,508.508 INFO feature_selection - run_selection_iteration: Train score: 0.18442798128758953
+2023-12-07 12:04:58,508.508 INFO feature_selection - run_selection_iteration: Validation score: 0.23966779041151617
+2023-12-07 12:04:58,508.508 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (19)
+2023-12-07 12:10:17,574.574 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 12:10:17,574.574 INFO feature_selection - run_selection_iteration: Train score: 0.17485079590354793
+2023-12-07 12:10:17,574.574 INFO feature_selection - run_selection_iteration: Validation score: 0.23945367911832102
+2023-12-07 12:10:17,574.574 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (20)
+2023-12-07 12:15:38,703.703 INFO feature_selection - run_selection_iteration: Best treshold: 0.34
+2023-12-07 12:15:38,703.703 INFO feature_selection - run_selection_iteration: Train score: 0.19590726981952478
+2023-12-07 12:15:38,703.703 INFO feature_selection - run_selection_iteration: Validation score: 0.2374727380873703
+2023-12-07 12:15:38,703.703 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (21)
+2023-12-07 12:21:02,177.177 INFO feature_selection - run_selection_iteration: Best treshold: 0.36
+2023-12-07 12:21:02,177.177 INFO feature_selection - run_selection_iteration: Train score: 0.25103364977426884
+2023-12-07 12:21:02,177.177 INFO feature_selection - run_selection_iteration: Validation score: 0.21524963835560362
+2023-12-07 12:21:02,178.178 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (22)
+2023-12-07 12:26:25,033.033 INFO feature_selection - run_selection_iteration: Best treshold: 0.32
+2023-12-07 12:26:25,033.033 INFO feature_selection - run_selection_iteration: Train score: 0.1959502553099913
+2023-12-07 12:26:25,033.033 INFO feature_selection - run_selection_iteration: Validation score: 0.22807972500391463
+2023-12-07 12:26:25,033.033 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (23)
+2023-12-07 12:31:48,286.286 INFO feature_selection - run_selection_iteration: Best treshold: 0.33
+2023-12-07 12:31:48,286.286 INFO feature_selection - run_selection_iteration: Train score: 0.1951690007117245
+2023-12-07 12:31:48,286.286 INFO feature_selection - run_selection_iteration: Validation score: 0.23082839621660947
+2023-12-07 12:31:48,287.287 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (24)
+2023-12-07 12:37:11,768.768 INFO feature_selection - run_selection_iteration: Best treshold: 0.33
+2023-12-07 12:37:11,769.769 INFO feature_selection - run_selection_iteration: Train score: 0.19005883983857552
+2023-12-07 12:37:11,769.769 INFO feature_selection - run_selection_iteration: Validation score: 0.23681521365563063
+2023-12-07 12:37:11,771.771 INFO feature_selection - <module>: New channel added: 18 ((0.19878395048211325, 0.23837772816172526) -> (0.18442798128758953, 0.23966779041151617))
+2023-12-07 12:37:11,771.771 INFO feature_selection - <module>: Selection loop iteration 3 | Initial channels: [0, 1, 2, 3, 5, 18]
+2023-12-07 12:42:33,857.857 INFO feature_selection - run_selection_iteration: Basic scores: (0.1840007682704312, 0.23661430079541773)
+2023-12-07 12:42:33,857.857 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (4)
+2023-12-07 12:47:49,483.483 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 12:47:49,483.483 INFO feature_selection - run_selection_iteration: Train score: 0.1631188767848204
+2023-12-07 12:47:49,483.483 INFO feature_selection - run_selection_iteration: Validation score: 0.20965519416643172
+2023-12-07 12:47:49,484.484 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (6)
+2023-12-07 12:53:05,888.888 INFO feature_selection - run_selection_iteration: Best treshold: 0.31
+2023-12-07 12:53:05,888.888 INFO feature_selection - run_selection_iteration: Train score: 0.15262557499643517
+2023-12-07 12:53:05,888.888 INFO feature_selection - run_selection_iteration: Validation score: 0.17657390303727705
+2023-12-07 12:53:05,889.889 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (7)
+2023-12-07 12:58:22,323.323 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 12:58:22,323.323 INFO feature_selection - run_selection_iteration: Train score: 0.15519537231327626
+2023-12-07 12:58:22,323.323 INFO feature_selection - run_selection_iteration: Validation score: 0.17249161329673682
+2023-12-07 12:58:22,323.323 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (8)
+2023-12-07 13:03:38,768.768 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 13:03:38,768.768 INFO feature_selection - run_selection_iteration: Train score: 0.17370112412590097
+2023-12-07 13:03:38,768.768 INFO feature_selection - run_selection_iteration: Validation score: 0.2198568996025452
+2023-12-07 13:03:38,769.769 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (9)
+2023-12-07 13:08:54,772.772 INFO feature_selection - run_selection_iteration: Best treshold: 0.28
+2023-12-07 13:08:54,772.772 INFO feature_selection - run_selection_iteration: Train score: 0.14614877900693657
+2023-12-07 13:08:54,772.772 INFO feature_selection - run_selection_iteration: Validation score: 0.18614885143661017
+2023-12-07 13:08:54,773.773 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (10)
+2023-12-07 13:14:10,218.218 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 13:14:10,218.218 INFO feature_selection - run_selection_iteration: Train score: 0.15753882816666157
+2023-12-07 13:14:10,218.218 INFO feature_selection - run_selection_iteration: Validation score: 0.22190012557691993
+2023-12-07 13:14:10,218.218 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (11)
+2023-12-07 13:19:22,272.272 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 13:19:22,272.272 INFO feature_selection - run_selection_iteration: Train score: 0.15196638718151614
+2023-12-07 13:19:22,272.272 INFO feature_selection - run_selection_iteration: Validation score: 0.1826905959890898
+2023-12-07 13:19:22,272.272 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (12)
+2023-12-07 13:24:34,321.321 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 13:24:34,321.321 INFO feature_selection - run_selection_iteration: Train score: 0.15949093798518502
+2023-12-07 13:24:34,321.321 INFO feature_selection - run_selection_iteration: Validation score: 0.20790063080453536
+2023-12-07 13:24:34,331.331 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (13)
+2023-12-07 13:29:50,392.392 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 13:29:50,392.392 INFO feature_selection - run_selection_iteration: Train score: 0.1484845238789355
+2023-12-07 13:29:50,393.393 INFO feature_selection - run_selection_iteration: Validation score: 0.20313587272046016
+2023-12-07 13:29:50,393.393 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (14)
+2023-12-07 13:35:05,302.302 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 13:35:05,302.302 INFO feature_selection - run_selection_iteration: Train score: 0.17123526974213418
+2023-12-07 13:35:05,302.302 INFO feature_selection - run_selection_iteration: Validation score: 0.1907599696225815
+2023-12-07 13:35:05,302.302 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (15)
+2023-12-07 13:40:20,090.090 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 13:40:20,090.090 INFO feature_selection - run_selection_iteration: Train score: 0.1661372922695653
+2023-12-07 13:40:20,090.090 INFO feature_selection - run_selection_iteration: Validation score: 0.20491314493129376
+2023-12-07 13:40:20,091.091 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (16)
+2023-12-07 13:45:34,796.796 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 13:45:34,797.797 INFO feature_selection - run_selection_iteration: Train score: 0.16088982642724556
+2023-12-07 13:45:34,797.797 INFO feature_selection - run_selection_iteration: Validation score: 0.18802253841679087
+2023-12-07 13:45:34,797.797 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (17)
+2023-12-07 13:50:49,057.057 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 13:50:49,057.057 INFO feature_selection - run_selection_iteration: Train score: 0.1599278942942174
+2023-12-07 13:50:49,057.057 INFO feature_selection - run_selection_iteration: Validation score: 0.18827861518342626
+2023-12-07 13:50:49,058.058 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (19)
+2023-12-07 13:56:03,285.285 INFO feature_selection - run_selection_iteration: Best treshold: 0.29
+2023-12-07 13:56:03,286.286 INFO feature_selection - run_selection_iteration: Train score: 0.17050947129914995
+2023-12-07 13:56:03,286.286 INFO feature_selection - run_selection_iteration: Validation score: 0.21042874080020854
+2023-12-07 13:56:03,286.286 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (20)
+2023-12-07 14:01:19,149.149 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 14:01:19,149.149 INFO feature_selection - run_selection_iteration: Train score: 0.18353737096597517
+2023-12-07 14:01:19,149.149 INFO feature_selection - run_selection_iteration: Validation score: 0.233113910433895
+2023-12-07 14:01:19,150.150 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (21)
+2023-12-07 14:06:33,782.782 INFO feature_selection - run_selection_iteration: Best treshold: 0.32
+2023-12-07 14:06:33,782.782 INFO feature_selection - run_selection_iteration: Train score: 0.24313607472364565
+2023-12-07 14:06:33,782.782 INFO feature_selection - run_selection_iteration: Validation score: 0.22748641910318557
+2023-12-07 14:06:33,782.782 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (22)
+2023-12-07 14:11:48,662.662 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 14:11:48,662.662 INFO feature_selection - run_selection_iteration: Train score: 0.18089582012242364
+2023-12-07 14:11:48,662.662 INFO feature_selection - run_selection_iteration: Validation score: 0.2136491404375916
+2023-12-07 14:11:48,663.663 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (23)
+2023-12-07 14:17:02,458.458 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 14:17:02,458.458 INFO feature_selection - run_selection_iteration: Train score: 0.1823970434189
+2023-12-07 14:17:02,458.458 INFO feature_selection - run_selection_iteration: Validation score: 0.21964765717158824
+2023-12-07 14:17:02,459.459 INFO feature_selection - run_selection_iteration: Starting evaluation of additional feature (24)
+2023-12-07 14:22:17,737.737 INFO feature_selection - run_selection_iteration: Best treshold: 0.3
+2023-12-07 14:22:17,737.737 INFO feature_selection - run_selection_iteration: Train score: 0.17927219804418548
+2023-12-07 14:22:17,737.737 INFO feature_selection - run_selection_iteration: Validation score: 0.19990187003343501
+2023-12-07 14:22:17,739.739 INFO feature_selection - <module>: New iteration didn't find any channel that would increase model score
+2023-12-07 14:22:17,739.739 INFO feature_selection - <module>: Final channels: [0, 1, 2, 3, 5, 18]

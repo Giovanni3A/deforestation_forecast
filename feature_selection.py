@@ -192,18 +192,3 @@ if __name__ == "__main__":
         iter += 1
 
     print("\nFinal channels results:", channels)
-
-    # save results to file
-    errors_hist_df = []
-    for (e1, e2) in errors_hist:
-        i = [float(e1[0]), float(e1[1])]
-        if e2 is not None:
-            i = i + [float(e2[0]), float(e2[1])]
-        else:
-            i = i + [np.nan, np.nan]
-        errors_hist_df.append(i)
-    errors_hist_df = pd.DataFrame(
-        errors_hist_df, 
-        columns=["base_train", "base_val", "improved_train", "improved_val"]
-    )
-    errors_hist_df.to_csv("scores_history.csv", index=False)
